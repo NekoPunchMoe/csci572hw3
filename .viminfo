@@ -9,6 +9,8 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+:q
+:1
 
 # Search String History (newest to oldest):
 
@@ -21,15 +23,127 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/WordCount.java
+'0  52  21  ~/inverted_index/inverted_index.java
+'1  19  45  ~/inverted_index/inverted_index.java
+'2  66  31  ~/inverted_index/inverted_index.java
+'3  1  0  ~/inverted_index/inverted_index.java
+'4  71  0  ~/inverted_index/inverted_index.java
+'5  61  0  ~/WordCount.java
+'6  1  0  ~/WordCount.java
 
 # Jumplist (newest first):
+-'  52  21  ~/inverted_index/inverted_index.java
+-'  1  0  ~/inverted_index/inverted_index.java
+-'  19  45  ~/inverted_index/inverted_index.java
+-'  66  31  ~/inverted_index/inverted_index.java
+-'  71  0  ~/inverted_index/inverted_index.java
+-'  61  0  ~/WordCount.java
 -'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  65  31  ~/inverted_index/inverted_index.java
+-'  70  0  ~/inverted_index/inverted_index.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
+-'  1  0  ~/WordCount.java
+-'  61  0  ~/WordCount.java
 
 # History of marks within files (newest to oldest):
 
+> ~/inverted_index/inverted_index.java
+	"	52	21
+	^	52	22
+	.	52	21
+	+	1	27
+	+	71	0
+	+	61	35
+	+	66	31
+	+	19	45
+	+	52	21
+
 > ~/WordCount.java
-	"	1	0
+	"	61	0
 	^	1	0
 	.	61	0
 	+	61	0
