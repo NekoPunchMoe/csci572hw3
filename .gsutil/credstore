@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "credential": {
+        "_GceAssertionCredentials__service_account_name": "default",
+        "_class": "GceAssertionCredentials",
+        "_module": "apitools.base.py.credentials_lib",
+        "_service_account_email": null,
+        "access_token": "ya29.EmUQBHZnb5Ty6XYSs8P6HXuT7NDURH_4t2X3R1h75Gx6i_EZHNx5kT6Sa5xsUJlG92M87ognEvhR9lzpqKiO4gsAZhu2a18TJpXnH3bmHQeQ12cfIH-hYqYTzeRiFUisAFfPBLcpOQ",
+        "assertion_type": null,
+        "client_id": null,
+        "client_secret": null,
+        "id_token": null,
+        "invalid": false,
+        "kwargs": {
+          "cache_filename": "/home/wen5291311/.gsutil/gcecredcache"
+        },
+        "refresh_token": null,
+        "revoke_uri": "https://accounts.google.com/o/oauth2/revoke",
+        "scope": "https://www.googleapis.com/auth/bigtable.data https://www.googleapis.com/auth/cloud.useraccounts.readonly https://www.googleapis.com/auth/devstorage.full_control https://www.googleapis.com/auth/devstorage.read_write https://www.googleapis.com/auth/logging.write https://www.googleapis.com/auth/bigquery https://www.googleapis.com/auth/bigtable.admin.table",
+        "scopes": [],
+        "token_expiry": "2017-03-16T03:06:51Z",
+        "token_info_uri": null,
+        "token_response": null,
+        "token_uri": "https://www.googleapis.com/oauth2/v4/token",
+        "user_agent": null
+      },
+      "key": {
+        "api_version": "v1",
+        "refresh_token": null
+      }
+    }
+  ],
+  "file_version": 1
+}
